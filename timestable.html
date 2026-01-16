@@ -502,7 +502,8 @@
                 // Match found
                 card1.classList.add('matched');
                 card2.classList.add('matched');
-                showMatchPopup(card1);
+                const questionCard = card1.dataset.type === 'question' ? card1 : card2;
+                showMatchPopup(questionCard);
                 matchesFound++;
                 updateDisplay();
                 

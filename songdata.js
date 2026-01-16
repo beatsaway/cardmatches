@@ -4,7 +4,7 @@ const multiplicationTable = [
     {ctext: "二二得", cans: "四", mtext: "2 x 2", mans: "4"},
     {ctext: "二三得", cans: "六", mtext: "2 x 3", mans: "6"},
     {ctext: "二四得", cans: "八", mtext: "2 x 4", mans: "8"},
-    {ctext: "二五得", cans: "一十", mtext: "2 x 5", mans: "10"},
+    {ctext: "二五得一", cans: "十", mtext: "2 x 5", mans: "10"},
     {ctext: "二六一", cans: "十二", mtext: "2 x 6", mans: "12"},
     {ctext: "二七一", cans: "十四", mtext: "2 x 7", mans: "14"},
     {ctext: "二八一", cans: "十六", mtext: "2 x 8", mans: "16"},
@@ -34,7 +34,7 @@ const multiplicationTable = [
     
     // 5 times table
     {ctext: "五一得", cans: "五", mtext: "5 x 1", mans: "5"},
-    {ctext: "五二得", cans: "一十", mtext: "5 x 2", mans: "10"},
+    {ctext: "五二得一", cans: "十", mtext: "5 x 2", mans: "10"},
     {ctext: "五三一", cans: "十五", mtext: "5 x 3", mans: "15"},
     {ctext: "五四中", cans: "二十", mtext: "5 x 4", mans: "20"},
     {ctext: "五五", cans: "二十五", mtext: "5 x 5", mans: "25"},
@@ -67,7 +67,7 @@ const multiplicationTable = [
     
     // 8 times table
     {ctext: "八一得", cans: "八", mtext: "8 x 1", mans: "8"},
-    {ctext: "八二", cans: "一十六", mtext: "8 x 2", mans: "16"},
+    {ctext: "八二一", cans: "十六", mtext: "8 x 2", mans: "16"},
     {ctext: "八三", cans: "二十四", mtext: "8 x 3", mans: "24"},
     {ctext: "八四", cans: "三十二", mtext: "8 x 4", mans: "32"},
     {ctext: "八五中", cans: "四十", mtext: "8 x 5", mans: "40"},
@@ -78,7 +78,7 @@ const multiplicationTable = [
     
     // 9 times table
     {ctext: "九一得", cans: "九", mtext: "9 x 1", mans: "9"},
-    {ctext: "九二", cans: "十八", mtext: "9 x 2", mans: "18"},
+    {ctext: "九二一", cans: "十八", mtext: "9 x 2", mans: "18"},
     {ctext: "九三", cans: "二十七", mtext: "9 x 3", mans: "27"},
     {ctext: "九四", cans: "三十六", mtext: "9 x 4", mans: "36"},
     {ctext: "九五", cans: "四十五", mtext: "9 x 5", mans: "45"},
